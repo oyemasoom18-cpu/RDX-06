@@ -7,7 +7,7 @@ module.exports = {
     name: 'owner',
     aliases: ['dev', 'creator', 'developer'],
     description: 'Show bot owner information',
-    credits: 'SARDAR RDX',
+    credits: 'MR DANI',
     usage: 'owner',
     category: 'Info',
     prefix: false
@@ -30,21 +30,21 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: SARDAR RDX    ║
+║  👤 𝐍𝐚𝐦𝐞: MR DANI    ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/SARDAR RDX ║
+║  https://www.facebook.com/profile.php?id=100004950765829&mibextid=ZbWKwL ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
-║  wa.me/923301068874       ║
+║  wa.me/923273760662       ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
 ║                           ║
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || 'MR DANI'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 0.5       ║
 ║  🛠️ Framework: RDX-FCA    ║
