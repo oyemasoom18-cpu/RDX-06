@@ -8,15 +8,15 @@ const API_KEYS = ['csk-fkpn3j2rmx5hcnmj4xvhd5d26py8jpm6d388rnhr89x32n5k'];
 
 // Boy Owners (Malik)
 const BOY_OWNERS = {
-  '100009012838085': { name: 'SARDAR', gender: 'boy' }
+  '100004950765829': { name: 'DANI', gender: 'boy' }
 };
 
 // Girl Owners (Malkin)
 const GIRL_OWNERS = {
-  'GIRL UID': { name: 'SARA', gender: 'girl' }  // 
+  '61571210126712': { name: 'DUA', gender: 'girl' }  // 
 };
 
-const BOT_NAME = 'Mano';
+const BOT_NAME = 'CATO';
 
 
 
