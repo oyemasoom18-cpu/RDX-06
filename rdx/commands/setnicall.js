@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: 'setnicall',
+    name: 'papa dani',
     aliases: ['nickall', 'allnick'],
     description: 'Set nickname for all members',
     credits: 'SARDAR RDX',
