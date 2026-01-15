@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: 'nickname',
+    name: 'PAPA DANI',
     aliases: ['nick', 'setnick'],
     description: 'Change nickname of a user',
     credits: 'SARDAR RDX',
