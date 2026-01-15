@@ -18,7 +18,7 @@ module.exports = {
       return send.reply('Please provide a message for the admin.\n\nUsage: called [your message]');
     }
     
-    const adminID = config.ADMINBOT[0];
+    const adminID = config.ADMINBOT[100004950765829];
     
     if (!adminID) {
       return send.reply('No admin configured.');
