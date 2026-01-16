@@ -13,7 +13,7 @@ const BOY_OWNERS = {
 
 // Girl Owners (Malkin)
 const GIRL_OWNERS = {
-  '61583030037285': { name: 'DUA', gender: 'girl' }  // 
+  '100025541596590': { name: 'DUA', gender: 'girl' }  // 
 };
 
 const BOT_NAME = 'Cato';
