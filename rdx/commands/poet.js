@@ -3,7 +3,7 @@ module.exports = {
     name: 'poet',
     aliases: ['poetry', 'shayari'],
     description: 'Random Urdu poetry',
-    credits: 'SARDAR RDX',
+    credits: 'MR DANI',
     usage: 'poet',
     category: 'Fun',
     prefix: false
@@ -49,7 +49,7 @@ module.exports = {
       const selectedLine = poetryLines[Math.floor(Math.random() * poetryLines.length)];
 
       const message = {
-        body: `꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂🌹`
+        body: `꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐌𝐑 𝐃𝐀𝐍𝐈꧂🌹`
       };
 
       return api.sendMessage(message, threadID, messageID);
@@ -84,6 +84,6 @@ module.exports = {
 
     const selectedLine = poetryLines[Math.floor(Math.random() * poetryLines.length)];
 
-    return send.reply(`꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂🌹`);
+    return send.reply(`꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐌𝐑 𝐃𝐀𝐍𝐈꧂🌹`);
   }
 };
