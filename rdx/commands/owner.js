@@ -18,9 +18,9 @@ module.exports = {
 
     const ownerPics = [
       'https://i.ibb.co/HjddK2m/2bcf988d88d3.jpg',
-      '',
-      '',
-      ''
+      'https://i.ibb.co/sdq8qbV9/c4065b714bcf.jpg',
+      'https://i.ibb.co/hRSbQTZj/d865dd122ca0.jpg',
+      'https://i.ibb.co/0VvhJmw3/54bbdede8bf6.jpg'
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
